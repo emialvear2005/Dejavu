@@ -1,0 +1,92 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Emily Alvear</title>
+        <meta name="description" content="Aquí debes colocar la descripción del sitio web">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body> <body style="background-color:pink;">
+</body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">Emily Alvear</h1>
+                <nav>
+                    <ul>
+                        <li><a href="#">Linkedin</a></li>
+                        <li><a href="#">WordPress</a></li>
+                        <li><a href="#">Blogger</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <article>
+                    <header>
+                        <h1>Sobre Mi</h1>
+<img src="foto-paisaje.png"alt="texto alternativo"width="500px" heigh="300px">
+                        <p>Actualmente curso la carrera de Marketing Digital y Comercio Electrónico. Me considero una persona muy creativa, responsable, organizada, amable y de mente abierta. Siempre dispuesta para aprender cosas nuevas.</p>
+                    </header>
+                    <section>
+                        <h2>Educación</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1k9eM0apcr4?si=ZVJ-sEC0z5slswq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <p><li>Bachillerato En Ciencias</li>Colegio Rosario González Murillo (2018-2023)<li>Tecnología Marketing Digital Y Comercio Electónico</li>Instituto Universitario Cordillera (En Curso)</p>
+                    </section>
+                    <section>
+                        <h2>Cursos</h2>
+                        <p><li>Google Cloud Computing</li>Escuela De Organización Industrial (2024)<li>Marketing De Contenidos</li>HubSpot Academy (2023)</p>
+                    </section>
+                    <footer>
+                        <h2>Herramientas</h2>
+                        <p><li>Canva<li>CapCut<li>WordPress<Ilustrator<Photoshop</p>
+                        <h2>Idiomas</h2>
+                        <p><li>Español</li>(Nativo)<li>Ingles</li>(Certificado A2)</p>
+                    </footer>
+                </article>
+
+                <aside>
+                    <h3>Estudiante de Marketing Digital Y Comercio Electrónico</h3>
+<img src="foto-emily-alvear.png"alt="texto alternativo"width="300px" heigh="285px">
+                    <p><li>Teléfono: 0983909487<li>Correo Electrónico: emilyalvear59@gmail.com</p>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+                    <div class="contenedor"> 
+                        <a href="https://www.linkedin.com/in/diego-nu%C3%B1ez-95430a268/">
+                            <i class="fa-brands fa-2x fa-linkedin"></i>
+                        </a>
+                    </div>
+                </aside>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <h3>Derechos De Autor</h3>
+	<p>©️ 2024 Emily Alvear. Todos los derechos reservados.</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2587.5119251756087!2d-78.48710852318129!3d-0.1555768912976683!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59aba9e05e6a1%3A0x606478970ed82284!2sInstituto%20Superior%20Tecnol%C3%B3gico%20Cordillera!5e0!3m2!1ses-419!2sec!4v1719008337462!5m2!1ses-419!2sec" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
